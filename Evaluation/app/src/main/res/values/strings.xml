@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Inter Test</string>
+    <string name="title_photos">Photos of</string>
+    <string name="title_details">Photo Details</string>
+    <string name="tilte_comments">Comments for</string>
+    <string name="title_posts">Posts by</string>
+    <string name="title_albums">Albums by</string>
+    <string name="msg_error_get_data">Something wrong happened. Try again later.</string>
+    <string name="text_albums">albums</string>
+    <string name="text_posts">posts</string>
+    <string name="text_comments_number">Number of comments:</string>
+    <string name="info">Information</string>
+    <string name="album_photos">album photos</string>
+    <string name="notice">Notice</string>
+    <string name="no_connection">No network connection</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

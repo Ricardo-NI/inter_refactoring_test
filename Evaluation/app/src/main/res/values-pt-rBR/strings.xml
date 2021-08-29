@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Inter Teste</string>
+    <string name="title_details">Detalhes da foto</string>
+    <string name="tilte_comments">Comentários para</string>
+    <string name="title_photos">Fotos de</string>
+    <string name="title_posts">Postagens de</string>
+    <string name="title_albums">Álbuns de</string>
+    <string name="msg_error_get_data">Algo errado aconteceu. Tente novamente mais tarde.</string>
+    <string name="text_albums">albuns</string>
+    <string name="text_posts">postagens</string>
+    <string name="text_comments_number">Número de comentários:</string>
+    <string name="info">Informacão</string>
+    <string name="album_photos">fotos do álbum</string>
+    <string name="notice">Aviso</string>
+    <string name="no_connection">Sem conexão com a internet</string>
+</resources>
